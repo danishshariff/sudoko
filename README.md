@@ -2,6 +2,8 @@
 
 Welcome to the **Sudoku Solver and Generator**! This web application allows you to solve Sudoku puzzles or generate new ones using HTML, CSS, and JavaScript.
 
+link to the game: https://danishsudoko.netlify.app/
+
 ## Features
 
 - **Solve**: Automatically solves the current Sudoku puzzle.
